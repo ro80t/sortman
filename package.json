@@ -51,7 +51,7 @@
 	},
 	"dependencies": {
 		"@changesets/cli": "^2.29.2",
-		"@eslint/compat": "^1.2.8",
+		"@eslint/compat": "^2.0.0",
 		"@jest/globals": "^30.0.4",
 		"@jest/types": "^30.0.1",
 		"@types/jest": "^30.0.0",
